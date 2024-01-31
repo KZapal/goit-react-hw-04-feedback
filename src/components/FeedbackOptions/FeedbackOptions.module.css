@@ -1,0 +1,26 @@
+.mainP {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.feedbackButtons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 0 5px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: lightcoral;
+  color: #ffffff;
+}
